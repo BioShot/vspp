@@ -1,0 +1,13 @@
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\bin\Debug\Config.exe.config
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\bin\Debug\Config.exe.manifest
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\bin\Debug\Config.application
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\bin\Debug\Config.exe
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\bin\Debug\Config.pdb
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.csprojAssemblyReference.cache
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.Properties.Resources.resources
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.csproj.GenerateResource.cache
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.csproj.CoreCompileInputs.cache
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.exe.manifest
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.application
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.exe
+C:\Users\Levi\Documents\vspp\vspp\Config\Config\obj\Debug\Config.pdb
